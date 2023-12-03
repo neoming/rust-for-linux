@@ -1,5 +1,6 @@
 # 完成`e1000`驱动开发的所有`checkpoints`, 成功`ping`通
 + `e1000` 仓库: [neoming_e1000_driver](https://github.com/neoming/e1000-driver/commits/main)
++ 相关参考：`https://github.com/lispking/rust-for-linux/`
 
 ## 实验步骤记录
 
