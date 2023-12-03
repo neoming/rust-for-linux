@@ -2,6 +2,11 @@
 + `e1000` 仓库: [neoming_e1000_driver](https://github.com/neoming/e1000-driver/commits/main)
 + 相关参考：`https://github.com/lispking/rust-for-linux/`
 
+## 相关踩坑与尝试
++ qemu版本冲7.0.0切换到了8.0.0
++ busybox记得使用arm gcc编译
++ linux取消勾选之后要删除build目录重新build
++ rust-analyzer至今没有提示
 ## 实验步骤记录
 
 ### 1. 编译不带`e1000`的`linux`内核
